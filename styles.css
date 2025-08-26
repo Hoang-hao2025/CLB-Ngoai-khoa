@@ -7,7 +7,7 @@
 
 /* Banner đầu trang */
 header .banner {
-  background: url("img/img-0.jpg") no-repeat center/cover;
+  background: url("img-0.jpg") no-repeat center/cover;
   text-align: center;
   color: darkred;
   padding: 2.5em 0;
@@ -69,4 +69,5 @@ footer {
 .cell {
   text-align: justify;
   padding: 1.5em;
+
 }
